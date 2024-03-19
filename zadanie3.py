@@ -1,0 +1,1 @@
+print("plik 3")
